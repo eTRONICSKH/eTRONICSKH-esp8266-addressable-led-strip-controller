@@ -1,1 +1,1 @@
-# eTRONICSKH-esp8266-addressable-led-strip-controller
+# esp-addressable-led-strip-controller
